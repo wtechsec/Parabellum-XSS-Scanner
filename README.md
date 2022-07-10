@@ -3,7 +3,7 @@
 # By wtechsec
 
 
-<img src="https://github.com/wtechsec/Parabellum-Send-Fake-Mail/blob/main/Parabellum-Send-Fake-Mail/screen/Parebellum-Fake-Mail.png" width="800px" height="auto">
+<img src="https://github.com/wtechsec/Parabellum-XSS-Scanner/blob/main/Parabellum-XSS-Scanner.PNG" width="800px" height="auto">
 
 
 > *Para fins educacionais e profissional (Pentest)* 
