@@ -24,3 +24,5 @@ Essa tool foi criada para identificar a possibilidade de injecão de código jav
 
 <img src="https://github.com/wtechsec/Parabellum-XSS-Scanner/blob/main/Imagens/Parabellum-XSS-Scanner-2.png" width="800px" height="auto">
 
+
+Após inserir a URL que desejá verificar o retorno será true ou false para o payload inserido no form, lembrando que o payload pode ser editado no código.
