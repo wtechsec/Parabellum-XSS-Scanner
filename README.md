@@ -3,7 +3,7 @@
 # By wtechsec
 
 
-<img src="https://github.com/wtechsec/Parabellum-XSS-Scanner/blob/main/Parabellum-XSS-Scanner.PNG" width="800px" height="auto">
+<img src="https://github.com/wtechsec/Parabellum-XSS-Scanner/blob/main/Imagens/Parabellum-XSS-Scanner-1.PNG" width="800px" height="auto">
 
 
 > *Para fins educacionais e profissional (Pentest)* 
@@ -22,5 +22,5 @@ Essa tool foi criada para identificar a possibilidade de injecão de código jav
 1. git clone https://github.com/wtechsec/Parabellum-XSS-Scanner.git
 2. sudo python3 Parabellum-XSS.py 
 
-<img src="https://github.com/wtechsec/Parabellum-XSS-Scanner/blob/main/Parabellum-XSS-Scanner-2.png" width="800px" height="auto">
+<img src="https://github.com/wtechsec/Parabellum-XSS-Scanner/blob/main/Imagens/Parabellum-XSS-Scanner-2.png" width="800px" height="auto">
 
