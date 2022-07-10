@@ -18,3 +18,6 @@ Essa tool foi criada para identificar a possibilidade de injecão de código jav
 
 1. git clone https://github.com/wtechsec/Parabellum-XSS-Scanner.git
 2. sudo python3 Parabellum-XSS.py 
+
+<img src="https://github.com/wtechsec/Parabellum-XSS-Scanner/blob/main/Parabellum-XSS-Scanner.PNG" width="800px" height="auto">
+
