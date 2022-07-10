@@ -19,6 +19,7 @@ Essa tool foi criada para identificar a possibilidade de injecão de código jav
 
 
 
+
 1. git clone https://github.com/wtechsec/Parabellum-XSS-Scanner.git
 2. sudo python3 Parabellum-XSS.py 
 
@@ -26,3 +27,8 @@ Essa tool foi criada para identificar a possibilidade de injecão de código jav
 
 
 Após inserir a URL que desejá verificar o retorno será true ou false para o payload inserido no form, lembrando que o payload pode ser editado no código.
+Essa tool ainda está em evolução e será atualizada, conforme o tempo.
+
+# By wtechsec
+# https://wtechsec.webnode.pt
+# https://www.instagram.com/wtechsec/
