@@ -10,8 +10,8 @@
 
 ## Dependência
 
-pyfiglet
-termcolor
+1. pyfiglet
+2. termcolor
 
 ## Uso
 
