@@ -8,7 +8,10 @@
 
 > *Para fins educacionais e profissional (Pentest)* 
 
+## Dependência
 
+pyfiglet
+termcolor
 
 ## Uso
 
