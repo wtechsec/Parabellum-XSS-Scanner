@@ -30,5 +30,5 @@ Após inserir a URL que desejá verificar o retorno será true ou false para o p
 Essa tool ainda está em evolução e será atualizada, conforme o tempo.
 
 # By wtechsec
-# https://wtechsec.webnode.pt
+# https://www.wtechsec.com.br
 # https://www.instagram.com/wtechsec/
